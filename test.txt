@@ -10,4 +10,9 @@ je fais des tests
 
 Modif pierre
 
+<<<<<<< HEAD
 modif du master
+=======
+test branche
+nlle modif
+>>>>>>> Version_du_2
